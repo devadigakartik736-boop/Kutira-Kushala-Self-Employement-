@@ -1,0 +1,6 @@
+{
+  "name": "Kutira-Kushala Android",
+  "description": "Android app for self-employed cottage industry workers leveraging Jetpack Compose, Firebase, and Gemini API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
